@@ -19,7 +19,6 @@ namespace CorrectifFilmApi.Controllers
         }
 
         [HttpGet]
-        [Route("api/acteur/Affichemoitout")]
         public IEnumerable<Acteur> Get()
         {
             return _service.GetAll();
