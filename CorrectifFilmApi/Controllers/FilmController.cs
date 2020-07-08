@@ -26,7 +26,6 @@ namespace CorrectifFilmApi.Controllers
         }
 
         [HttpGet]
-        [Route("api/film/detail/{id}")]
         public Film Get(int id)
         {
 
