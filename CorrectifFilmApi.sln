@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectifFilmApi", "CorrectifFilmApi\CorrectifFilmApi.csproj", "{F3E8E9D8-73A0-49B8-8DB6-F5393F4ED7AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dal", "Dal\Dal.csproj", "{3A353029-017F-4917-BD05-BD898BC6957C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3E8E9D8-73A0-49B8-8DB6-F5393F4ED7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E8E9D8-73A0-49B8-8DB6-F5393F4ED7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E8E9D8-73A0-49B8-8DB6-F5393F4ED7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E8E9D8-73A0-49B8-8DB6-F5393F4ED7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A353029-017F-4917-BD05-BD898BC6957C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A353029-017F-4917-BD05-BD898BC6957C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A353029-017F-4917-BD05-BD898BC6957C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A353029-017F-4917-BD05-BD898BC6957C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55DEB984-74E7-4F24-B564-9AB7C285B8A8}
+	EndGlobalSection
+EndGlobal
